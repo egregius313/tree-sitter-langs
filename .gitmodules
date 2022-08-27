@@ -205,3 +205,6 @@
 	branch = master
 	update = none
 	ignore = dirty
+[submodule "repos/codeql"]
+	path = repos/codeql
+	url = https://github.com/tree-sitter/tree-sitter-ql
